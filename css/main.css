@@ -1,0 +1,48 @@
+html{
+    overflow-y:scroll;
+    height:100%;
+}
+body{
+    padding:0 0 .2em 0;
+    margin:0;
+    font-family:Verdana,Arial,sans-serif;
+}
+code{
+    font-size:1.2em;
+}
+img{
+    border:none;
+}
+a{
+    color:#333;
+}
+#container p{
+    text-align:justify;
+}
+h2,h3,h4,h5,h6{
+    font-family:Georgia,'Times New Roman',Times,serif;
+}
+h2{
+    border:0 solid#DDD;
+    border-bottom-width:1px;
+    font-size:180%
+}
+h3{
+    font-size:160%;
+}
+#fancybox-content,#container,#footer{
+    font-size:80%;
+}
+.clear{
+    display:block;
+    width:0;
+    height:0;
+    clear:both
+}
+h1{
+    display:inline;
+    font-size:100%;
+    font-weight:700;
+    padding:0;
+    margin:0
+}
